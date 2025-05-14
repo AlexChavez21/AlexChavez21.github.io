@@ -1,0 +1,46 @@
+
+.bienvenida {
+    text-align: center;
+}
+.avicolaimg {
+    margin: 10%;
+}
+
+.col1{
+    margin: 50%;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+.footer-section {
+    background-color: #021927; /* Color de fondo gris oscuro */
+    color: #ccc; /* Color de texto gris claro */
+    text-align: center; /* Centrar el texto */
+    padding: 20px; /* Espaciado interno para el contenido */
+}
+.seccion-productos {
+    background-color: #d0d1d3ee; /* Un gris claro */
+    padding: 40px 20px; /* Espaciado interno */
+    border-radius: 10px; /* Bordes redondeados */
+    margin-top: 20px; /* Separación del texto superior */
+}
+
+.seccion-productos h2 {
+    color: #343a40; /* Texto más oscuro */
+}
+
+.seccion-productos p {
+    color: #6c757d; /* Texto gris */
+}
+
+#imagen-ubi {
+    width: 100%;
+    height: auto;
+    max-width: 600px; /* Limitar el ancho máximo */
+    margin: 0 auto; /* Centrar la imagen */
+}
